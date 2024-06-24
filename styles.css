@@ -1,0 +1,66 @@
+.card {
+  float: left;
+  width:25%;
+  margin: 0 2%;
+  padding:15px;
+  background-color: aquamarine;
+  text-align: center;
+
+}
+
+.class-image {
+
+    width: 200px;
+    height : 200px;
+    
+}
+
+.class-price {
+
+   font-size:20px;
+   font-weight:bold;
+
+}
+
+i {
+    font-size: 35px;
+    cursor: pointer;
+    margin: 0 10px;
+    color: black;
+}
+
+.fa-trash-can {
+
+    color:red;
+}
+
+.change-color {
+
+    color:red;
+
+}
+
+.class-inline {
+
+    display:inline;
+
+}
+
+.pictos {
+
+    margin: 0 0 15px 0;
+}
+
+#container {
+    overflow: hidden;
+
+}
+
+.class-total {
+
+    text-align: center;
+    font-size: 25px;
+    font-weight:bold;
+    margin: 20px;
+ 
+}
